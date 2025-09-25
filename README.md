@@ -244,7 +244,7 @@ Splash Screen and App Icon
   
 &nbsp;
 
-  
+![](https://github.com/stdxpe/test/blob/main/Xnip2025-09-25_12-56-12.png)
 ```makefile
 Logger Service:
 
