@@ -209,6 +209,15 @@ Profile Page: (Demanded Requests)
 ```makefile
 Visually challenging LimitedOffersPage pixel-perfectly recreated from Figma design
 ```
+  
+  
+&nbsp;
+
+  
+![](https://github.com/stdxpe/test/blob/main/limited_offers_figma.jpg)
+```makefile
+Visually challenging LimitedOffersPage pixel-perfectly recreated from Figma design
+```
 
   
   
