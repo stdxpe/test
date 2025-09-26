@@ -4,7 +4,7 @@ Clean structured Flutter showcase project, using **`Bloc`**, **`GetIt`**, **`GoR
 
 <!-- ![](assets/readme/home_50fps_x425.gif) -->
 <!-- MUST BE! : 50fps : x425 : Non Full HD (80%) -->
-![](https://github.com/stdxpe/test/blob/main/poster.png)
+![](https://github.com/stdxpe/case_study_movies_project/raw/main/assets/readme/profile_50fps_x425.gif)
    
    
    
@@ -40,8 +40,8 @@ Clean structured Flutter showcase project, using **`Bloc`**, **`GetIt`**, **`GoR
    
 &nbsp;
 <!-- ![](assets/readme/profile_50fps_x425.gif) -->
-![](https://github.com/stdxpe/test/blob/main/t3.jpg)
-![](https://github.com/stdxpe/ecommerce_shopping_project/blob/dev/readme_doc/dark_mode.jpg)
+![](https://github.com/stdxpe/test/blob/main/poster.jpg)
+
 
 
 ## Project Structure
@@ -152,11 +152,7 @@ lib/
 └── main.dart
 
 ```
-![](https://github.com/stdxpe/test/blob/main/t0.jpg)
-  
-![](https://github.com/stdxpe/test/blob/main/t1.jpg)
-
-![](https://github.com/stdxpe/test/blob/main/t2.jpg)
+![](https://github.com/stdxpe/ecommerce_shopping_project/blob/dev/readme_doc/dark_mode.jpg)
 
   
   
