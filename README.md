@@ -1,10 +1,10 @@
 ## Case Study: Clean Architecture Project
 
-Clean structured Flutter showcase project, using **`Bloc`**, **`GetIt`**, **`GoRouter`**, **`Hive`**, **`fpdart`**, **`freezed`**, **`Crashlytics`**&**`Analytics`**, **`JWT`** authentication, localization, custom theming and responsive UI.
+Clean structured Flutter showcase project, using **`Bloc`**, **`GetIt`**, **`GoRouter`**, **`Hive`**, **`fpdart`**, **`freezed`**, `Crashlytics`&`Analytics`, **`JWT`** authentication, localization, custom theming and responsive UI.
 
 <!-- ![](assets/readme/home_50fps_x425.gif) -->
 <!-- MUST BE! : 50fps : x425 : Non Full HD (80%) -->
-![](https://github.com/stdxpe/test/blob/main/t4.jpg)
+![](https://github.com/stdxpe/test/blob/main/poster.png)
    
    
    
@@ -236,7 +236,8 @@ Navigation: (Demanded Requests)
   
 &nbsp;
 
-  
+
+![](https://github.com/stdxpe/test/blob/main/splash_and_icon.png)
 ```rust
 Splash Screen and App Icon
 ```
@@ -244,7 +245,7 @@ Splash Screen and App Icon
   
 &nbsp;
 
-![](https://github.com/stdxpe/test/blob/main/l1.png)
+![](https://github.com/stdxpe/test/blob/main/crashlytics_and_logger.png)
 ```makefile
 Logger Service:
 
