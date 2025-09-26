@@ -199,8 +199,17 @@ Profile Page: (Demanded Requests)
 - Displaying user information and profile details
 - Displaying user's favorite movies list as lazy gridview
 - Profile photo upload feature and ImageProcessingService
-- Visually challenging LimitedOffersPage pixel-perfectly recreated from Figma design
 ```
+  
+  
+&nbsp;
+
+  
+![](https://github.com/stdxpe/test/blob/main/limited_offers.jpg)
+```makefile
+Visually challenging LimitedOffersPage pixel-perfectly recreated from Figma design
+```
+
   
   
 &nbsp;
